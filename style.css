@@ -1,0 +1,10 @@
+canvas{
+    border: 10px ridge grey;
+    background-color: lightgray;
+}
+.vertical-line{
+    border-left: 6px dotted blue;
+    height: 450px;
+    margin-left: 565px;
+    margin-top: 35pt;
+}
